@@ -1,1 +1,2 @@
 # DATA-SCIENCE-INTERNSHIP
+During my 3-month internship at Rinex Tech, I contributed to the development of a real-time attendance system using facial recognition. I researched and implemented the facial recognition algorithm, integrated it with the database, and conducted thorough testing. Collaborating with the team, I gained practical experience, enhanced problem-solving skills, and learned about software development methodologies. This internship was a valuable opportunity, and I am grateful for the guidance and support I received.
